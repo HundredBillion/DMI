@@ -2,6 +2,9 @@
 
 Rails API + Vite/React application that accepts CSV uploads, parses them server-side, and renders the data in a sortable table on the frontend.
 
+## Live Demo 
+https://dmi-zeta.vercel.app/
+
 ## Project layout
 
 ```
