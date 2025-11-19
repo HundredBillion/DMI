@@ -1,6 +1,7 @@
 import { render, screen, within } from '@testing-library/react'
 import { CsvTable } from '../CsvTable'
 import type { UploadResponse } from '../../types'
+import { describe, it, expect } from 'vitest'
 
 describe('CsvTable', () => {
   const baseData: UploadResponse = {
