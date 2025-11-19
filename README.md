@@ -15,7 +15,8 @@ web/  # Vite + React + TypeScript frontend with upload/table UI and Vitest suite
 cd /Users/davidlee/code/DMI/api
 bundle install
 bin/rails db:migrate
-FRONTEND_ORIGIN=http://localhost:5173 bin/rails server
+bin/rails server
+FRONTEND_ORIGIN=http://localhost:5173 
 ```
 
 - SQLite is used in development/test, so no external DB is required.
