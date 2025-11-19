@@ -5,6 +5,8 @@ Rails API + Vite/React application that accepts CSV uploads, parses them server-
 ## Live Demo 
 https://dmi-zeta.vercel.app/
 
+backend deployed at: https://dmi-5v0t.onrender.com
+
 ## Project layout
 
 ```
